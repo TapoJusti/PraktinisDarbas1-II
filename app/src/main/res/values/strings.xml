@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PraktinisDarbas1-II</string>
+    <string name="text">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</string>
+    <string name="news_i">News I</string>
+    <string name="news_i">News I</string>
+    <string name="news_ii">News II</string>
+    <string name="next">NEXT</string>
+    <string name="top">TOP</string>
+    <string name="prev">PREV</string>
+</resources>
